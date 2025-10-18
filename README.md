@@ -1,5 +1,5 @@
 # Zombie Escape 
-## 3D Physics based game built for a University Gaming Course
+## 3D Physics based game built for a University Gaming Course 2024
 
 ### Project Unity version: 2022.3.10f1
 #### A playable```.exe``` file can be found in the ```f``` folder
