@@ -2,6 +2,7 @@
 ## 3D Physics based game built for a University Gaming Course
 
 ### Project Unity version: 2022.3.10f1
+#### A playable```.exe``` file can be found in the ```f``` folder
 
 ### **Controls**:
  - **WASD** to move,
